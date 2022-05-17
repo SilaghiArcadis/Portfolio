@@ -17,7 +17,7 @@ const Nav = () => {
     const changeNav = (entries, observer) => {
       entries.forEach((entry) => {
         // verify the element is intersecting
-        if(entry.isIntersecting && entry.intersectionRatio >= 0.45) {
+        if(entry.isIntersecting && entry.intersectionRatio >= 0.55) {
       //console.log(entry.target.id);
           // remove old active class
           document.querySelector('.active').classList.remove('active');
@@ -31,7 +31,7 @@ const Nav = () => {
     
     // init the observer
     const options = {
-      threshold: 0.45
+      threshold: 0.55
     }
     
     const observer = new IntersectionObserver(changeNav, options);
