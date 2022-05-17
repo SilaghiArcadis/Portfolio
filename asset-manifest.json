@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.742bc266.css",
+    "main.js": "/Portfolio/static/js/main.a99493d1.js",
+    "static/media/me.png": "/Portfolio/static/media/me.42e8f19a950ae7453db8.png",
+    "static/media/cv.pdf": "/Portfolio/static/media/cv.3aec1d4164d60059d088.pdf",
+    "static/media/arisa-flowers.JPG": "/Portfolio/static/media/arisa-flowers.49de80235d6402f378e3.JPG",
+    "static/media/me-about2.jpg": "/Portfolio/static/media/me-about2.e74e799f3464b5b32506.jpg",
+    "static/media/game-tictactoe-final.JPG": "/Portfolio/static/media/game-tictactoe-final.454fcc0d2f2a7ff6d9f1.JPG",
+    "static/media/vancea.JPG": "/Portfolio/static/media/vancea.98732d77483a13bbde56.JPG",
+    "static/media/rici.JPG": "/Portfolio/static/media/rici.fda36baf54ed0718b101.JPG",
+    "static/media/bg-texture.png": "/Portfolio/static/media/bg-texture.0dc0248a94662fa2129c.png",
+    "static/media/game-snake-final.JPG": "/Portfolio/static/media/game-snake-final.f3216995a3019c292b2c.JPG",
+    "index.html": "/Portfolio/index.html",
+    "main.742bc266.css.map": "/Portfolio/static/css/main.742bc266.css.map",
+    "main.a99493d1.js.map": "/Portfolio/static/js/main.a99493d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.742bc266.css",
+    "static/js/main.a99493d1.js"
+  ]
+}
