@@ -30,9 +30,9 @@ const About = () => {
             </article>
           </div>
           <p>
-          My passion for web development has been clear since middle school when i worked on an advertising website for a local client. In high school, i developed my algorithmic skills by participating in programming competitions and olympiads. In college i continued to expand my knowledge by learning various programming languages and technologies. Im currently pursuing a master's degree in Software Engineering and i'm aspiring to become an excellent full-stack developer. Feel free to contact me !
+          In high school, I developed my algorithmic skills by participating in programming competitions and olympiads. In college I continued to expand my knowledge by learning various programming languages and technologies. Im currently pursuing a master's degree in Software Engineering and i'm aspiring to become an excellent full-stack developer. Feel free to contact me !
           </p>
-          <a href="#flori" className='btn btn-primary'>Let's talk</a>
+          <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>
       </section>

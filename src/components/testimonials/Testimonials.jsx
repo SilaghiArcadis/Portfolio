@@ -29,19 +29,19 @@ const Testimonials = () => {
             <img src={AVTR1} alt="Avatar One" />
           </div>
           <h3 className='friend__name'>Trombitas Richard</h3>
-          <h5 className='friend__occupation'>Endava Junior Dev</h5>
+          <h5 className='friend__occupation'>Endava Developer</h5>
           
-          <small className='friend__review'>He is a funny and energetic person who is always a joy to be around. He is passionate about web development and an aspiring full-stack engineer.</small>
+          <small className='friend__review'>He is a funny and energetic person and it's always a joy to be around him. He is passionate about web development and is an aspiring full-stack engineer.</small>
 
         </SwiperSlide>
-        <SwiperSlide className='testimonials'>
+        {/* <SwiperSlide className='testimonials'>
           <div className="friend__avatar">
             <img src={AVTR2} alt="Avatar One" />
             </div>
             <h3 className='friend__name'>Vancea Cristian</h3>
             <h5 className='friend__occupation'>Accesa Junior Dev</h5>
             <small className='friend__review'>Ce as putea spune, decat ca este un camarad de succes repeatCe as putea spune, decat ca este un camarad de succes repeatCe as putea spune, decat ca este un camarad de succes repeat</small>
-        </SwiperSlide>
+        </SwiperSlide> */}
       </Swiper>
     </section>
   )

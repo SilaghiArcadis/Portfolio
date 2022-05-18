@@ -17,7 +17,7 @@ const Nav = () => {
     const changeNav = (entries, observer) => {
       entries.forEach((entry) => {
         // verify the element is intersecting
-        if(entry.isIntersecting && entry.intersectionRatio >= 0.55) {
+        if(entry.isIntersecting && entry.intersectionRatio >= 0.40) {
       //console.log(entry.target.id);
           // remove old active class
           document.querySelector('.active').classList.remove('active');
@@ -31,7 +31,7 @@ const Nav = () => {
     
     // init the observer
     const options = {
-      threshold: 0.55
+      threshold: 0.40
     }
     
     const observer = new IntersectionObserver(changeNav, options);
@@ -51,7 +51,7 @@ const Nav = () => {
       <a href="#experience"><BiBook/></a>
       <a href="#portfolio" ><RiServiceLine/></a>
       <a href="#testimonials" ><GiThreeFriends/></a>
-      <a href="#flori"><BiMessageDetail/></a>
+      <a href="#contact"><BiMessageDetail/></a>
     </nav>
   )
 }

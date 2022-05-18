@@ -16,7 +16,7 @@ const Header = () => {
           />
           <TypeAnimation
             sequence={[ 5000,"Let's build something special.",1000,"Let's build something special. Together."]}
-            wrapper="h3"
+            wrapper="h4"
           />
           <CTA/>
           <HeaderSocials/>
@@ -25,7 +25,6 @@ const Header = () => {
             <img src={ME} alt="me" />
           </div>
           
-          <a href="#flori" className='scroll__down'>Scroll Down</a>
         </div>
       </header>
     </section>
