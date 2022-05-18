@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.742bc266.css",
-    "main.js": "/Portfolio/static/js/main.94341690.js",
+    "main.js": "/Portfolio/static/js/main.4414bfdc.js",
     "static/media/me.png": "/Portfolio/static/media/me.42e8f19a950ae7453db8.png",
-    "static/media/cv.pdf": "/Portfolio/static/media/cv.3aec1d4164d60059d088.pdf",
+    "static/media/cv.pdf": "/Portfolio/static/media/cv.7fad2c1f3355a055f901.pdf",
     "static/media/arisa-flowers.JPG": "/Portfolio/static/media/arisa-flowers.49de80235d6402f378e3.JPG",
     "static/media/me-about2.jpg": "/Portfolio/static/media/me-about2.e74e799f3464b5b32506.jpg",
     "static/media/game-tictactoe-final.JPG": "/Portfolio/static/media/game-tictactoe-final.454fcc0d2f2a7ff6d9f1.JPG",
@@ -13,10 +13,10 @@
     "static/media/game-snake-final.JPG": "/Portfolio/static/media/game-snake-final.f3216995a3019c292b2c.JPG",
     "index.html": "/Portfolio/index.html",
     "main.742bc266.css.map": "/Portfolio/static/css/main.742bc266.css.map",
-    "main.94341690.js.map": "/Portfolio/static/js/main.94341690.js.map"
+    "main.4414bfdc.js.map": "/Portfolio/static/js/main.4414bfdc.js.map"
   },
   "entrypoints": [
     "static/css/main.742bc266.css",
-    "static/js/main.94341690.js"
+    "static/js/main.4414bfdc.js"
   ]
 }
