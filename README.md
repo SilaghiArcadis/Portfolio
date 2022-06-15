@@ -1,6 +1,6 @@
 # ---- react-type-animation ----
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/SilaghiArcadis/Portfolio/blob/master/typeanimation.gif)
 
 # Install
 
@@ -42,4 +42,12 @@ wrapper | no | string | p,h2,div | HTML elements that Animation is wrapped aroun
 repeat | no | number | 3, Infinity | Amount of animation repetitions
 cursor | no | boolean | false, true | Display blinking cursor css-animation
 className | no | string | custom-class-name | HTML class name applied to the wrapper to style the text
+
+
+
+
+
+
+# ---- Swiper ----
+
 
